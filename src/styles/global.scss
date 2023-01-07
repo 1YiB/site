@@ -1,0 +1,13 @@
+:root {
+    /* Font */
+    --font-sans: 'Inter', sans-serif;
+    --font-mono: 'Space Mono', monospace;
+    --font-code: 'Source Code Pro', monospace;
+
+
+}
+
+
+body {
+    font-family: var(--font-sans);
+}
